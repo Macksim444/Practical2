@@ -1,0 +1,14 @@
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\bin\Debug\net8.0\ConsoleApp2.2.5 перепроверить.exe
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\bin\Debug\net8.0\ConsoleApp2.2.5 перепроверить.deps.json
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\bin\Debug\net8.0\ConsoleApp2.2.5 перепроверить.runtimeconfig.json
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\bin\Debug\net8.0\ConsoleApp2.2.5 перепроверить.dll
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\bin\Debug\net8.0\ConsoleApp2.2.5 перепроверить.pdb
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.AssemblyInfoInputs.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.AssemblyInfo.cs
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.dll
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\refint\ConsoleApp2.2.5 перепроверить.dll
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.pdb
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ConsoleApp2.2.5 перепроверить.genruntimeconfig.cache
+C:\Users\public.COPP\RiderProjects\ConsoleApp3\ConsoleApp2.2.5 перепроверить\obj\Debug\net8.0\ref\ConsoleApp2.2.5 перепроверить.dll
