@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class MathNum {
     public int firstNumber { get; set; }
@@ -51,6 +51,15 @@ class Program {
         lastsecondnumber = int.Parse(Console.ReadLine());
        
         math.UpdateInfo(lastfirstnumber, lastsecondnumber);
+        
+        if (math.firstNumber > math.secondNumber)
+        {
+            math.maxNumber = math.firstNumber;
+        }
+        else
+        {
+            math.maxNumber = math.secondNumber;
+        }
 
         math.DisplayInfo();
     }
