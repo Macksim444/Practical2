@@ -20,7 +20,7 @@ class HelloWorld {
     }
 
     static List<List<int>> GetUniqueCombinations(int[] candidates, int target) {
-        Array.Sort(candidates); // Сортируем массив для ускорения поиска
+        Array.Sort(candidates); 
         List<List<int>> result = new List<List<int>>();
         FindCombinations(candidates, target, 0, new List<int>(), result);
         return result;
